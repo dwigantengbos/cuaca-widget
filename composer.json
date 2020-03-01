@@ -1,0 +1,9 @@
+{
+    "name": "dwigantengbos/widget-cuaca",
+    "description": "Widget ntok kan nampelkan bahari di suatu kote",
+    "type": "project",
+    "require": {
+        "nesbot/carbon": "^1.39",
+        "tcdent/php-restclient": "^0.1.7"
+    }
+}
