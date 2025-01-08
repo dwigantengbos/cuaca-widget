@@ -3,7 +3,7 @@
     "description": "Widget ntok kan nampelkan bahari di suatu kote",
     "type": "project",
     "require": {
-        "nesbot/carbon": "^1.39",
+        "nesbot/carbon": "^2.72",
         "tcdent/php-restclient": "^0.1.7"
     }
 }
